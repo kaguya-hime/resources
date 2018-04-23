@@ -1,1 +1,17 @@
 
+更新日志
+
+By Kaguya
+kaguya@kaguya-hime.me
+
+
+Version 30.04.22.01
+平成30年4月22日
+
+1. 去除对host的不必要操作
+2. 更换SS-TAP版本为1.0.9.7
+3. UI优化
+4. 添加最小化状态下的托盘图标
+5. Bug修复
+
+
